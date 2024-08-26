@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAA_sSX6tOEd0h7ul7RbYc9x1qvHono4Rk</string>
+	<key>APP_ID</key>
+	<string>1:891820508223:ios:06d93584c4ca2e78f3e48a</string>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>HOMECARE Service</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>HOMECARE Service</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>FirebaseMessagingAutoInitEnabled</key>
+	<true/>
+	<key>FirebaseMessagingBackgroundMode</key>
+	<string>remote-notification</string>
+	<key>GCM_SENDER_ID</key>
+	<string>891820508223</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Allows you to choose a music</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Reason</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>We need access to your photo library to upload images.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>We need access to your camera to take pictures.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>We need access to your microphone to record audio.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>We need access to your photo library to upload images.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>We need your permission to save photos to your gallery.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>We need access to your camera to take pictures.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>We need access to your microphone to record audio.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Why is my app authenticating using face id?</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Allows you to record a voice</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>We need access to your photo library to upload files</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Your message to explain why you need location access</string>
+	<key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true/>
+    </dict>
+	<key>NSMicrophoneUsageDescription</key>
+    <string>Access is needed to record audio for uploading.</string>
+	<key>NSUserNotificationType</key>
+	<integer>7</integer>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
